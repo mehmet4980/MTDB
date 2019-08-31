@@ -1,2 +1,0 @@
-- Fixed several issues with new search functionality.
-- Added release date and result type to search suggestions dropdown.
