@@ -1,0 +1,10 @@
+language: php, composer, node_js
+composer:
+  - "php"
+php:
+  - "composer" 
+node_js:
+  - "node"
+cache:
+  directories:
+    - node_modules
