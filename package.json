@@ -2,6 +2,7 @@
   "name": "MTDb",
   "version": "1.0.0",
   "description": "Ultimate movies and tv shows database.",
+    "repository": "PHPAScript/MTDB",
   "devDependencies": {
     "browser-sync": "^2.7.13",
     "gulp": "^3.9.0",
