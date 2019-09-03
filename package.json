@@ -1,9 +1,0 @@
-{
-  "name": "PHPAScript/MTDB/tree/master/MTDb%20Version%202.9.3/mtdb",
-  "version": "1.0.0",
-  "description": "Ultimate movies and tv shows database.",
-    "repository": "PHPAScript/MTDB/tree/master/MTDb%20Version%202.9.3/mtdb",
-  "devDependencies": {
-    "#": "^1.0"
-  }
-}
